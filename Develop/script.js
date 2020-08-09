@@ -143,7 +143,7 @@ function generatePassword() {
 
   var passwordFinal = "";
 
-  // Loop for Random Selection depending on User's character length
+  // Loop for random selection depending on User's character length
   for (var p = 0; p < userLength; p++) {
     passwordFinal =
       passwordFinal +
