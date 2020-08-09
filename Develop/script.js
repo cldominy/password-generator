@@ -1,7 +1,7 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
-// Passoword Criteria Arrays
+// Passoword Criteria Strings to Arrays
 var lowerCase = "abcdefghijklmnopqrstuvwxyz";
 lowerCase = lowerCase.split(""); //Lower Case
 
