@@ -8,7 +8,7 @@ lowerCase = lowerCase.split(""); //Lower Case
 var upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 upperCase = upperCase.split(""); //Upper Case
 
-var specialChars ="!%$,*+-./<>?~";
+var specialChars ="!#$%&'()*+,-./:;<=>?@[]^_`{|}~";
 specialChars = specialChars.split(""); //Special Chars
 
 var number = "1234567890";
